@@ -3,6 +3,7 @@ def using_until
   unitl levitation_force == 10
   #your code here
     puts "Wingardium Leviosa"
-    counter += 1
+    counter += 1 
+  end
 end
 
